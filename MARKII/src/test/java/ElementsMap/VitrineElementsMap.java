@@ -23,18 +23,4 @@ public class VitrineElementsMap {
 	public By lblTitleP = By.cssSelector(".complete-header");
 
 	public By lblSubTitle = By.cssSelector(".complete-text");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
