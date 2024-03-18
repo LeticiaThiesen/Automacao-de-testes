@@ -13,12 +13,10 @@ public class ChromeBrowser {
 		chromeOptions.addArguments("--window-size=1280,720");
 		chromeOptions.addArguments("--remote-allow-origins=*");
 		driver = new ChromeDriver(chromeOptions);
-
     }
 
     public static WebDriver getDriver() {
         return driver;
-
     }
 
 }
