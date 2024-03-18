@@ -11,16 +11,12 @@ public class Utils {
     }
     protected void preencherTxt(By by, String text){
         driver.findElement(by).sendKeys(text);
-
     }
 
     protected void clicarBtn(By by){
         driver.findElement(by).click();
-
     }
 
     protected void pegaElemento(){
-
-
     }
 }
