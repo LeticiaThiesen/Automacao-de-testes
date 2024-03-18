@@ -12,7 +12,6 @@ public class LoginActions extends Utils {
 
     public void acessarAplicacao(){
         acessarAplicacao("https://www.saucedemo.com/");
-
     }
     public void preencherTxtUsername(String text) {
         preencherTxt(loginElementsMap.txtUsername,text);
@@ -57,10 +56,4 @@ public class LoginActions extends Utils {
     public void clicarBtnFinish(){
         clicarBtn(VitrineElementsMap.btnFinish);
     }
-
-
-
-
-
-
 }
