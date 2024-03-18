@@ -18,11 +18,3 @@ Feature: LoginSteps
 		Then titulo da mensagem deve estar correto
 		Then subtitulo da mensagem deve estar correto
 		Then titulo da pagina deve estar correto
-
-	##Scenario: Login com sucesso
-		##Given acessar a aplicacao
-		##When preencher o campo Username com o valor: "standard_user"
-		##And preencher o campo Password com o valor: "secret_sauce"
-		##And clicar no botao Login
-		##Then devo acessar o site
-	
