@@ -1,6 +1,6 @@
-# Lethiesen
-Compartilhando meu mundo nos testes de software.
+#Automação de Testes
 
-Testadora de Software com 10 anos de experiência em testes manuais, garantindo a qualidade e integridade de produtos de software.
-Desenvolvedora de scripts de automação de testes utilizando C#, Java e ferramentas de automação como Selenium.
+Nesta implementação de automação, o propósito é efetuar o procedimento de autenticação no portal web, seguido pela inclusão de um item no carrinho de compras e, por fim, a conclusão da transação. 
+
+Este projeto foi elaborado na linguagem de programação Java, e utilizei a ferramenta Selenium WebDriver para empregar o próprio driver do navegador, visando automatizar as interações e emular a atividade do usuário.
 
